@@ -279,11 +279,11 @@ The OHBS will be a standalone web application that integrates front-end and back
 &nbsp;  
 &nbsp; 
 - **Adding Hotel page**
-  ![Add Hotel](https://github.com/user-attachments/assets/907bf344-726b-41ca-b16d-962ef6360f32)
+  ![Add Hotel](https://github.com/user-attachments/assets/c5d111c8-fa69-4ae9-a91a-d73601e9273d)
   &nbsp;  
 &nbsp;  
 &nbsp;
-  ![Add Hotel](https://github.com/user-attachments/assets/c5d111c8-fa69-4ae9-a91a-d73601e9273d)
+  ![Add Hotel](https://github.com/user-attachments/assets/907bf344-726b-41ca-b16d-962ef6360f32)
   &nbsp;  
 &nbsp;  
 &nbsp;
