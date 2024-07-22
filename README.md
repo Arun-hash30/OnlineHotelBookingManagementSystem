@@ -1,6 +1,6 @@
 # Online Hotel Booking System (OHBS)
 
-## Abstract
+## Description
 The Online Hotel Booking System (OHBS) is a comprehensive web-based application designed to streamline the process of hotel booking for customers and hotel management. This system provides an efficient platform for users to search for hotels, view room availability, make bookings, and manage reservations online. 
 
 The primary objective of OHBS is to simplify the hotel booking process by offering a user-friendly interface and robust back-end support. The system includes features for user registration and authentication, hotel listings management, room availability checks, booking processes, user profile management, and notifications. By integrating these features, OHBS ensures a seamless experience for both hotel managers and customers.
@@ -206,9 +206,6 @@ The OHBS will be a standalone web application that integrates front-end and back
 &nbsp;  
 &nbsp; 
 - **Hotel Manager Panel After Successful Login**
-  &nbsp;  
-&nbsp;  
-&nbsp; 
 - **All Bookings Page**
   ![All Bookings](https://github.com/user-attachments/assets/6721d3cc-1586-4c73-bd48-badc45072bff)
   &nbsp;  
@@ -246,27 +243,57 @@ The OHBS will be a standalone web application that integrates front-end and back
 &nbsp;  
 &nbsp; 
 - **Admin Panel After Successful Login**
-  ![Admin Panel](screenshots/admin_panel.png)
+- **All Bookings**
+  ![All Bookings](https://github.com/user-attachments/assets/107420bd-a2bd-4772-85fb-6d2e18ba18fa)
+  &nbsp;  
+&nbsp;  
+&nbsp;
+- **All Rooms**
+  ![All Rooms](https://github.com/user-attachments/assets/ae8db304-e91b-4e02-8260-f5175fc139d2)
   &nbsp;  
 &nbsp;  
 &nbsp; 
-- **All Hotels Page**
-  ![All Hotels](screenshots/all_hotels.png)
+- **All Hotels**
+  ![All Hotels](https://github.com/user-attachments/assets/7e8122cb-ae02-4250-9064-57145d875d14)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Edit Hotel Page**
-  ![Edit Hotel](screenshots/edit_hotel.png)
+  ![Edit Hotel](https://github.com/user-attachments/assets/cc1f4c5f-73a0-4073-92b4-baa7d33202d7)
+  &nbsp;  
+&nbsp;  
+&nbsp;
+- **After Editing the Hotel (pop up Message will Appear)**
+  ![Edit Hotel Successful](https://github.com/user-attachments/assets/7b261458-1c3f-416d-be57-4b4674c3ada6)
+  &nbsp;  
+&nbsp;  
+&nbsp;
+- **To Delete Hotel**
+  ![Deleting Hotel](https://github.com/user-attachments/assets/322e0671-c2e3-486e-bf42-341e7fe6e3cc)
+  &nbsp;  
+&nbsp;  
+&nbsp;
+- **After Deleting the Hotel (pop up Message will Appear)**
+  ![Deleteing Hotel Success](https://github.com/user-attachments/assets/6d883e1b-1597-4ec2-8104-56d1bb1ab4cf)
   &nbsp;  
 &nbsp;  
 &nbsp; 
-- **Add Hotel Page**
-  ![Add Hotel](screenshots/add_hotel.png)
+- **Adding Hotel page**
+  ![Add Hotel](https://github.com/user-attachments/assets/907bf344-726b-41ca-b16d-962ef6360f32)
+  &nbsp;  
+&nbsp;  
+&nbsp;
+  ![Add Hotel](https://github.com/user-attachments/assets/c5d111c8-fa69-4ae9-a91a-d73601e9273d)
+  &nbsp;  
+&nbsp;  
+&nbsp;
+- **After Successful Adding Hotel page(Pop up Message will Appear)**
+  ![Adding Hotel Successful](https://github.com/user-attachments/assets/a039c8a5-13e2-4200-bff2-c8195b1b314a)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **All Users Page**
-  ![All Users](screenshots/all_users.png)
+  ![All Users](https://github.com/user-attachments/assets/211288c2-1691-4ec0-af3d-812df5da3f35)
   &nbsp;  
 &nbsp;  
 &nbsp; 
