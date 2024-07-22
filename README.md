@@ -166,7 +166,7 @@ The OHBS will be a standalone web application that integrates front-end and back
 
 ## 5. Screenshots Demonstrating the Execution of the Application
 - **User Registration Page**
-- &nbsp;
+-   &nbsp;
   ![User Registration Page](https://github.com/user-attachments/assets/3fead4e6-a827-46f7-a5ec-0496df864962)
   &nbsp;  
 &nbsp;  
