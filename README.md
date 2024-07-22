@@ -166,7 +166,7 @@ The OHBS will be a standalone web application that integrates front-end and back
 
 ## 5. Screenshots Demonstrating the Execution of the Application
 - **User Registration Page**
-  ![User Registration Page](screenshots/user_registration.png)
+  ![User Registration Page](C:\Users\Arun Ravikanth\OneDrive\Pictures\Screenshots\Screenshot 2024-07-21 174356.png)
 - **User Registration Page After Successful Registration**
   ![Successful Registration](screenshots/registration_success.png)
 - **User Login Page**
