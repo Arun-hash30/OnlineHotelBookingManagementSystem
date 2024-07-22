@@ -186,17 +186,17 @@ The OHBS will be a standalone web application that integrates front-end and back
 &nbsp;  
 &nbsp; 
 - **Hotel Listings Page**
-  ![Hotel Listings](screenshots/hotel_listings.png)
+  ![Hotel Listings](https://github.com/user-attachments/assets/242b8305-ea18-4da6-9313-48251053d9f7)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Rooms in Hotels**
-  ![Rooms in Hotels](screenshots/rooms_in_hotels.png)
+  ![Rooms in Hotels](https://github.com/user-attachments/assets/ed43f2e1-29bc-4609-a268-3ee44d9ca71a)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Room Selection by Customer**
-  ![Room Selection](screenshots/room_selection.png)
+  ![Room Selection](https://github.com/user-attachments/assets/5152e52d-3cba-40e3-bd26-cd526075c25e)
   &nbsp;  
 &nbsp;  
 &nbsp; 
