@@ -168,11 +168,11 @@ The OHBS will be a standalone web application that integrates front-end and back
 - **User Registration Page**
   ![User Registration Page](https://github.com/user-attachments/assets/3fead4e6-a827-46f7-a5ec-0496df864962)
 - **User Registration Page After Successful Registration**
-  ![Successful Registration](screenshots/registration_success.png)
+  ![Successful Registration](https://github.com/user-attachments/assets/35081ea3-cef5-477f-b2aa-a933192f083e)
 - **User Login Page**
-  ![User Login Page](screenshots/user_login.png)
+  ![User Login Page](https://github.com/user-attachments/assets/4a8aca6a-bab6-48b4-a6d2-506a70c584c3)
 - **Customer Panel After Successful Login**
-  ![Customer Panel](screenshots/customer_panel.png)
+  ![Customer Panel](https://github.com/user-attachments/assets/3e92b866-d5ae-4ffd-889d-5392a1f03b7d)
 - **Hotel Listings Page**
   ![Hotel Listings](screenshots/hotel_listings.png)
 - **Rooms in Hotels**
