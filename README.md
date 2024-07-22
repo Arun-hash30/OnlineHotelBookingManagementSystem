@@ -166,61 +166,51 @@ The OHBS will be a standalone web application that integrates front-end and back
 
 ## 5. Screenshots Demonstrating the Execution of the Application
 - **User Registration Page**
-<p>&nbsp;</p>
   ![User Registration Page](https://github.com/user-attachments/assets/3fead4e6-a827-46f7-a5ec-0496df864962)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **User Registration Page After Successful Registration**
-  &nbsp;
   ![Successful Registration](https://github.com/user-attachments/assets/35081ea3-cef5-477f-b2aa-a933192f083e)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **User Login Page**
-  *&nbsp;
   ![User Login Page](https://github.com/user-attachments/assets/4a8aca6a-bab6-48b4-a6d2-506a70c584c3)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Customer Panel After Successful Login**
-  &nbsp;
   ![Customer Panel](https://github.com/user-attachments/assets/3e92b866-d5ae-4ffd-889d-5392a1f03b7d)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Hotel Listings Page**
-  &nbsp;
   ![Hotel Listings](screenshots/hotel_listings.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Rooms in Hotels**
-  &nbsp;
   ![Rooms in Hotels](screenshots/rooms_in_hotels.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Room Selection by Customer**
-  &nbsp;
   ![Room Selection](screenshots/room_selection.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Booking Confirmation Page**
-  &nbsp;
   ![Booking Confirmation](screenshots/booking_confirmation.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Hotel Manager Panel After Successful Login**
-  &nbsp;
   ![Hotel Manager Panel](screenshots/manager_panel.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **All Bookings Page**
-  &nbsp;
   ![All Bookings](screenshots/all_bookings.png)
   &nbsp;  
 &nbsp;  
@@ -232,43 +222,36 @@ The OHBS will be a standalone web application that integrates front-end and back
 &nbsp;  
 &nbsp; 
 - **Add Room Page**
-  &nbsp;
   ![Add Room](screenshots/add_room.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Edit Room Page**
-  &nbsp;
   ![Edit Room](screenshots/edit_room.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Admin Panel After Successful Login**
-  &nbsp;
   ![Admin Panel](screenshots/admin_panel.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **All Hotels Page**
-  &nbsp;
   ![All Hotels](screenshots/all_hotels.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Edit Hotel Page**
-  &nbsp;
   ![Edit Hotel](screenshots/edit_hotel.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Add Hotel Page**
-  &nbsp;
   ![Add Hotel](screenshots/add_hotel.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **All Users Page**
-  &nbsp;
   ![All Users](screenshots/all_users.png)
   &nbsp;  
 &nbsp;  
