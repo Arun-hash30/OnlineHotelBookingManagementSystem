@@ -221,12 +221,27 @@ The OHBS will be a standalone web application that integrates front-end and back
 &nbsp;  
 &nbsp; 
 - **Add Room Page**
-  ![Add Room](screenshots/add_room.png)
+  ![Add Room](https://github.com/user-attachments/assets/73857667-0791-4391-af80-c4d67f4a21c1)
+  &nbsp;  
+&nbsp;  
+&nbsp;
+- **After Adding the Room (pop up Message will Appear)**
+  ![Add Room](https://github.com/user-attachments/assets/5cac4f24-90af-4341-b2cf-705ed4438a84)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Edit Room Page**
-  ![Edit Room](screenshots/edit_room.png)
+  ![Edit Room](https://github.com/user-attachments/assets/dc8b5240-1082-4b39-9ae9-0984a099f82b)
+  &nbsp;  
+&nbsp;  
+&nbsp;
+- **After Editing the Room (pop up Message will Appear)**
+  ![Add Room](https://github.com/user-attachments/assets/6eff3324-db73-4c07-836d-485b59c3a7d0)
+  &nbsp;  
+&nbsp;  
+&nbsp;
+- **After Deleting the Room (pop up Message will Appear)**
+  ![Add Room](https://github.com/user-attachments/assets/901fa70f-2d89-47ce-b53a-5d00b6b72327)
   &nbsp;  
 &nbsp;  
 &nbsp; 
