@@ -191,33 +191,32 @@ The OHBS will be a standalone web application that integrates front-end and back
 &nbsp;  
 &nbsp; 
 - **Rooms in Hotels**
-  ![Rooms in Hotels](https://github.com/user-attachments/assets/ed43f2e1-29bc-4609-a268-3ee44d9ca71a)
+  ![Rooms in Hotels](https://github.com/user-attachments/assets/5152e52d-3cba-40e3-bd26-cd526075c25e)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Room Selection by Customer**
-  ![Room Selection](https://github.com/user-attachments/assets/5152e52d-3cba-40e3-bd26-cd526075c25e)
+  ![Room Selection](https://github.com/user-attachments/assets/2ca5149c-89c6-45e6-95d3-3504cd3e2ea4)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Booking Confirmation Page**
-  ![Booking Confirmation](screenshots/booking_confirmation.png)
+  ![Booking Confirmation](https://github.com/user-attachments/assets/58d26967-b212-42bd-bd9e-e2dd1505dec2)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **Hotel Manager Panel After Successful Login**
-  ![Hotel Manager Panel](screenshots/manager_panel.png)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **All Bookings Page**
-  ![All Bookings](screenshots/all_bookings.png)
+  ![All Bookings](https://github.com/user-attachments/assets/6721d3cc-1586-4c73-bd48-badc45072bff)
   &nbsp;  
 &nbsp;  
 &nbsp; 
 - **All Rooms Page**
   &nbsp;
-  ![All Rooms](screenshots/all_rooms.png)
+  ![All Rooms](https://github.com/user-attachments/assets/9ab24645-a181-4a1d-976e-2edbcd6554c1)
   &nbsp;  
 &nbsp;  
 &nbsp; 
