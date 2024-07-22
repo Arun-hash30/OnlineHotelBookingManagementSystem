@@ -178,7 +178,7 @@ The OHBS will be a standalone web application that integrates front-end and back
 &nbsp;  
 &nbsp; 
 - **User Login Page**
-  &nbsp;
+  *&nbsp;
   ![User Login Page](https://github.com/user-attachments/assets/4a8aca6a-bab6-48b4-a6d2-506a70c584c3)
   &nbsp;  
 &nbsp;  
