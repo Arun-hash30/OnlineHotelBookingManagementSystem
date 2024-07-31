@@ -3,6 +3,7 @@ import UserRouter from './UserRouter';
 import ManagerRouter from './ManagerRouter';
 import AdminRouter from './AdminRouter';
 import Login from '../pages/auth/Login';
+import Signup from '../pages/auth/Signup';  // Import the Signup component
 
 const MainRoute = () => {
   const userRole = localStorage.getItem('userRole');
@@ -11,6 +12,7 @@ const MainRoute = () => {
     <Router>
       <Routes>
         <Route path="/login" element={<Login />} />
+        <Route path="/signup" element={<Signup />} />  // Add the signup route
         {!userRole && <Route path="*" element={<Navigate to="/login" replace />} />}
         {userRole === 'CUSTOMER' && <Route path="/*" element={<UserRouter />} />}
         {userRole === 'HOTELMANAGER' && <Route path="/*" element={<ManagerRouter />} />}
