@@ -6,7 +6,7 @@ node {
         checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[url: 'https://github.com/Arun-hash30/OnlineHotelBookingManagementSystem.git']])
     }
 
-    stage('Build') {
+    stage('Test') {
         dir('OnlineHotelBookingSystem-backend') {
             bat """ 
                 "${mavenPath}" clean install
